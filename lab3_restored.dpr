@@ -8,7 +8,7 @@ uses
 
 const
 n=3;
-var x,dx,sum,eps,pred,nast,f1,f2: extended;
+var x,dx,sum,eps,pred,nast,f1,f2: real;
     k,r,i,schet: integer;
 
 
